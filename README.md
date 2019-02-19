@@ -1,4 +1,4 @@
 # github-biginner-
 small steps
 
-test commit
+.test commit
